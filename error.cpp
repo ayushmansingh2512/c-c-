@@ -11,6 +11,6 @@
 int main(){
 	std::cout<<"hello world" << std::endl; //will show no semi colen
 		// run time error
-		7/0;
+		7/0; // will give warning 
 		return 0;
 }
